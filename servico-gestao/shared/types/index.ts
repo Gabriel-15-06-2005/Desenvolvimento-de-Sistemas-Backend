@@ -27,3 +27,5 @@ export interface Pagamento {
     valorPago: number;
     dataPagamento: Date;
 }
+
+export type { SomeSharedType } from './someSharedType'; // Exemplo de tipo compartilhado

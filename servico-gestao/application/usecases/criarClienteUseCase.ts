@@ -8,7 +8,5 @@ export class CriarClienteUseCase {
     }
 
     public async execute(data: any): Promise<any> {
-        // Implementar a lógica de negócio para criar um cliente
-        // Utilize this.repository para acessar os dados
     }
 }
